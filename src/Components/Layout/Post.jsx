@@ -49,10 +49,10 @@ const Post = () => {
                 alt=""
                 className="h-12 w-12 object-cover rounded-full"
               />
-              <p className="font-bold text-xl">Sarthak Kamra</p>
+              <p className="font-bold text-xl">Sarthak Kamra <br /> <span className="md:hidden block font-normal">1.4k views</span></p>
             </div>
             <div className="flex gap-3 items-center">
-              <div className="flex items-center gap-2">
+              <div className="md:flex hidden items-center gap-2">
                 <BsEye />
                 <p>1.4k views</p>
               </div>
@@ -109,10 +109,10 @@ const Post = () => {
                 alt=""
                 className="h-12 w-12 object-cover rounded-full"
               />
-              <p className="font-bold text-xl">Sarah West</p>
+              <p className="font-bold text-xl">Sarah West <br /> <span className="md:hidden block font-normal">1.4k views</span></p>
             </div>
             <div className="flex gap-3 items-center">
-              <div className="flex items-center gap-2">
+              <div className="md:flex hidden items-center gap-2">
                 <BsEye />
                 <p>1.4k views</p>
               </div>
@@ -176,10 +176,10 @@ const Post = () => {
                 alt=""
                 className="h-12 w-12 object-cover rounded-full"
               />
-              <p className="font-bold text-xl">Ronal Jones</p>
+              <p className="font-bold text-xl">Ronal Jones <br /> <span className="md:hidden block font-normal">1.4k views</span></p>
             </div>
             <div className="flex gap-3 items-center">
-              <div className="flex items-center gap-2">
+              <div className="md:flex hidden items-center gap-2">
                 <BsEye />
                 <p>1.4k views</p>
               </div>
@@ -234,10 +234,10 @@ const Post = () => {
                 alt=""
                 className="h-12 w-12 object-cover rounded-full"
               />
-              <p className="font-bold text-xl">Joseph Gray</p>
+              <p className="font-bold text-xl">Joseph Gray <br /> <span className="md:hidden block font-normal">1.4k views</span></p>
             </div>
             <div className="flex gap-3 items-center">
-              <div className="flex items-center gap-2">
+              <div className="md:flex hidden items-center gap-2 ">
                 <BsEye />
                 <p>1.4k views</p>
               </div>
