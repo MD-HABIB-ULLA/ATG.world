@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+.plex {
+    font-family: "IBM Plex Sans", sans-serif;
+  }
